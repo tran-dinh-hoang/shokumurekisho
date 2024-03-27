@@ -1,0 +1,9 @@
+# Site settings
+title: Tran Dinh Hoang
+#description: (株)GRCS　ビジネストランスフォーメーション部
+#logo: assets/img/logo.png
+#show_downloads: true
+github:
+  is_project_page: false
+theme: jekyll-theme-cayman # you can change the theme here, choose one from https://pages.github.com/themes/
+markdown: GFM
